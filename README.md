@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT student
 ----------
 
-I'm an IT student who loves Python and want to learn more about programming and cloud computing.
+I'm an IT student want to learn more about programming and cloud computing.
 
 *   🌍  I'm based in Brisbane
 *   ✉️  You can contact me at [jssyc13@gmail.com](mailto:jssyc13@gmail.com)
