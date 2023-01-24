@@ -8,7 +8,6 @@ I'm an IT student want to learn more about programming and cloud computing.
 
 *   🌍  I'm based in Brisbane
 *   ✉️  You can contact me at [jssyc13@gmail.com](mailto:jssyc13@gmail.com)
-*   🧠  I'm learning Data structure and algorithm
 *   🤝  I'm open to collaborating on Projects### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
