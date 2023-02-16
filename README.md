@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jerry Chen
 ==================================================================================================================================
 
-I'm an IT student want to learn more about programming and cloud computing.
+I'm an IT student, an enthusiast prgrammer, and a basketball lover.
 
 *   🌍  I'm based in Brisbane
 *   ✉️  You can contact me at [jssyc13@gmail.com](mailto:jssyc13@gmail.com)
