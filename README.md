@@ -14,7 +14,7 @@ Hi 👋 My name is Jerry Chen
 <p align="left">
   <a href="https://discord.com/users/tadashiiscool" target="_blank" rel="noreferrer">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="undefined" />
+<source media="(prefers-color-scheme: dark)" srcset="[undefined](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg)" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
 </picture>
@@ -42,7 +42,7 @@ Hi 👋 My name is Jerry Chen
 </a>
   <a href="https://www.stackoverflow.com/users/20661578/jerry-chen" target="_blank" rel="noreferrer">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="undefined" />
+<source media="(prefers-color-scheme: dark)" srcset="[undefined](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg)" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
 </picture>
