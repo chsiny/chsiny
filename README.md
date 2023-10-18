@@ -3,7 +3,7 @@ Hi 👋 My name is Jerry Chen
 
 *   🌍  I'm based in Brisbane
 *   ✉️  You can contact me at [jssyc13@gmail.com](mailto:jssyc13@gmail.com)
-*   🧠  I'm learning Artificial Intelligence, Docker, Kubernetes, Spark, Oracle
+*   🧠  I'm learning Reinforcement Learning, Pytorch, Docker, Kubernetes, Oracle, Google Cloud
   
 ### Skills
 
