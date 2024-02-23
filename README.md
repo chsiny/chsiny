@@ -50,7 +50,3 @@ Hi 👋 My name is Jerry Chen
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
 </picture>
 </a></p>
-
-### Badges
-
-<a href="https://github.com/chsiny" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chsiny&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
