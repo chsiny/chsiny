@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Jerry</h1>
-<h3 align="center">a Software Engineer based in Brisbane, Australia</h3>
+<h1 align="left">Hi, I'm Jerry</h1>
+<h3 align="left">a Software Engineer based in Brisbane, Australia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chsiny&label=Profile%20views&color=f89100&style=flat" alt="chsiny" /> </p>
 
@@ -46,6 +46,6 @@
 </picture>
 </a>
   <a href="https://www.leetcode.com/jssyc13" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jssyc13" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jssyc13" height="32" width="32" />
   </a>
 </p>
