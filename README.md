@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/chsiny/count.svg)
 
 *   ✉️  You can contact me at [jerryhychen@gmail.com](mailto:jerryhychen@gmail.com)
 *   🌟 My Portfolio: https://chsiny.github.io/
