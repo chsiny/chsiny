@@ -1,4 +1,4 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chsiny&label=Profile%20views&color=f7b910&style=flat" alt="chsiny" /> </p>
 
 *   ✉️  You can contact me at [jerryhychen@gmail.com](mailto:jerryhychen@gmail.com)
 *   🌟 My Portfolio: https://chsiny.github.io/
