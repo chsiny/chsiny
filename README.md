@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/chsiny/count.svg)
+
 
 *   ✉️  You can contact me at [jerryhychen@gmail.com](mailto:jerryhychen@gmail.com)
 *   🌟 My Portfolio: https://chsiny.github.io/
@@ -42,3 +42,5 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
 </picture>
 </a></p>
+
+![Visitor Count](https://profile-counter.glitch.me/chsiny/count.svg)
