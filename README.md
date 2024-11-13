@@ -1,3 +1,6 @@
+<h1 align="center">Hi, I'm Jerry</h1>
+<h3 align="center">a Software Engineer based in Brisbane, Australia</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chsiny&label=Profile%20views&color=f89100&style=flat" alt="chsiny" /> </p>
 
 *   ✉️  You can contact me at [jerryhychen@gmail.com](mailto:jerryhychen@gmail.com)
@@ -41,6 +44,8 @@
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
 </picture>
-</a></p>
-
-![Visitor Count](https://profile-counter.glitch.me/chsiny/count.svg)
+</a>
+  <a href="https://www.leetcode.com/jssyc13" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jssyc13" height="30" width="40" />
+  </a>
+</p>
